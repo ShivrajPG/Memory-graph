@@ -1,10 +1,10 @@
-# 🧠 Layer10 Memory Graph System
+# Layer10 Memory Graph System
 
 An enterprise-grade, grounded organizational memory system. This pipeline ingests unstructured and structured data (GitHub issues/comments), uses LLMs to extract relational claims, canonicalizes entities to deduplicate assertions, and pushes the resulting knowledge graph to Neo4j.
 
 ---
 
-## 🏗️ 1. Architecture & Design Decisions (The Write-Up)
+## 1. Architecture & Design Decisions
 
 ### Ontology & Extraction Contract
 The system relies on a strict, rigid structural contract defined via Pydantic ([step2_extraction.py]). 
@@ -30,7 +30,11 @@ If this pipeline were adapted for a live enterprise environment (Layer10) handli
 
 ---
 
-![Layer10_memory_system (1)](https://github.com/user-attachments/assets/52569908-3754-48ef-bed2-e49a898bdacb)
+## 🏛️ System Architecture
+
+The system is designed with a clear separation between the Minimum Viable Product (MVP) built for this assignment (represented by solid lines) and the Layer10 Enterprise Scaling vision (represented by dotted lines).
+
+![Layer10_memory_system (4)](https://github.com/user-attachments/assets/e7576fce-ffd1-4b29-af69-f06a373e218f)
 
 
 ## ⚙️ 2. Reproducibility & Setup
