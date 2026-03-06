@@ -9,19 +9,18 @@ from langchain_groq import ChatGroq
 from pydantic import BaseModel, Field
 from pyvis.network import Network
 
-# Setting up and Credentials
 load_dotenv()
 URI = os.getenv("NEO4J_URI")
-USERNAME = os.getenv("NEO4J_USERNAME")
-PASSWORD = os.getenv("NEO4J_PASSWORD")
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+Username = os.getenv("NEO4J_USERNAME")
+Password = os.getenv("NEO4J_PASSWORD")
+GROQ_Key= os.getenv("GROQ_API_KEY")
 
 @st.cache_resource
 def get_driver():
-    return GraphDatabase.driver(URI, auth=(USERNAME, PASSWORD))
+    return GraphDatabase.driver(URI, auth=(Username, Password))
 
 driver = get_driver()
-llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile", groq_api_key=GROQ_API_KEY)
+llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile", groq_api_key=GROQ_Key)
 
 class QueryPlan(BaseModel):
     search_terms: list[str] = Field(description="Extract the core keywords from the user's question.")
@@ -31,7 +30,6 @@ def retrieve_context_pack(question: str):
     plan = structured_llm.invoke(f"Extract keywords from this question: '{question}'")
     raw_terms =[t.lower() for t in plan.search_terms]
     
-    # Deterministic Mapping
     mapped_terms =[]
     for t in raw_terms:
         if "bug" in t: mapped_terms.extend(["issue", "reported"])
@@ -81,7 +79,6 @@ def synthesize_answer(question: str, context_pack: list):
     Answer:"""
     return llm.invoke(prompt).content
 
-#Setting the UI
 st.set_page_config(page_title="Layer10 Memory System", layout="wide")
 st.title("Layer10 Grounded RAG Agent")
 
@@ -135,7 +132,6 @@ with tab2:
         graph_data =[r.data() for r in session.run(query)]
         
     if graph_data:
-        # Adding the physics engine button
         net = Network(height="600px", width="100%", bgcolor="#0E1117", font_color="white", directed=True, filter_menu=True, cdn_resources='remote')
         
         for record in graph_data:
