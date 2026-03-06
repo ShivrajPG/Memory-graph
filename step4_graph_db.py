@@ -34,6 +34,7 @@ class MemoryGraphDB:
 
     @staticmethod
     def _create_entity(tx, entity):
+
         query = """
         MERGE (e:Entity {id: $id})
         SET e.name = $name, 
@@ -44,8 +45,10 @@ class MemoryGraphDB:
 
     @staticmethod
     def _create_claim(tx, claim):
+
         relation_type = claim["relation"].replace(" ", "_").upper()
-        evidence_str = json.dumps(claim["evidence"]
+        evidence_str = json.dumps(claim["evidence"])
+
         query = f"""
         MATCH (sub:Entity {{id: $sub_id}})
         MATCH (obj:Entity {{id: $obj_id}})
@@ -61,3 +64,5 @@ if __name__ == "__main__":
         db.ingest_data("canonicalized_memory.json")
     finally:
         db.close()
+
+        
