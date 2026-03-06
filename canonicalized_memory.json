@@ -1,574 +1,29 @@
 {
     "entities": [
         {
-            "id": "langchain_text_splitters",
-            "type": "COMPONENT",
-            "name": "langchain_text_splitters",
-            "aliases": [
-                "langchain_text_splitters"
-            ]
-        },
-        {
-            "id": "nltk",
-            "type": "COMPONENT",
-            "name": "nltk",
-            "aliases": [
-                "nltk"
-            ]
-        },
-        {
-            "id": "spacy",
-            "type": "COMPONENT",
-            "name": "spacy",
-            "aliases": [
-                "spacy"
-            ]
-        },
-        {
-            "id": "sentence-transformers",
-            "type": "COMPONENT",
-            "name": "sentence-transformers",
-            "aliases": [
-                "sentence-transformers"
-            ]
-        },
-        {
-            "id": "recursivecharactertextsplitter",
-            "type": "COMPONENT",
-            "name": "RecursiveCharacterTextSplitter",
-            "aliases": [
-                "RecursiveCharacterTextSplitter"
-            ]
-        },
-        {
-            "id": "plc0415",
+            "id": "deep-agents-cli",
             "type": "CONCEPT",
-            "name": "PLC0415",
+            "name": "Deep Agents CLI",
             "aliases": [
-                "PLC0415"
+                "Deep Agents CLI",
+                "deep-agents-cli"
             ]
         },
         {
-            "id": "fix(text-splitters)",
-            "type": "ISSUE",
-            "name": "fix(text-splitters)",
-            "aliases": [
-                "fix(text-splitters)"
-            ]
-        },
-        {
-            "id": "universeplayer",
-            "type": "USER",
-            "name": "universeplayer",
-            "aliases": [
-                "universeplayer"
-            ]
-        },
-        {
-            "id": "fix(openai)",
-            "type": "ISSUE",
-            "name": "fix(openai)",
-            "aliases": [
-                "fix(openai)"
-            ]
-        },
-        {
-            "id": "mdrxy",
-            "type": "USER",
-            "name": "mdrxy",
-            "aliases": [
-                "mdrxy"
-            ]
-        },
-        {
-            "id": "codspeed-hq[bot]",
-            "type": "USER",
-            "name": "codspeed-hq[bot]",
-            "aliases": [
-                "codspeed-hq[bot]"
-            ]
-        },
-        {
-            "id": "chatopenai",
+            "id": "langchain-classic",
             "type": "COMPONENT",
-            "name": "ChatOpenAI",
+            "name": "langchain-classic",
             "aliases": [
-                "ChatOpenAI"
-            ]
-        },
-        {
-            "id": "issue with chatopenai",
-            "type": "ISSUE",
-            "name": "issue with ChatOpenAI",
-            "aliases": [
-                "issue with ChatOpenAI"
-            ]
-        },
-        {
-            "id": "performance report",
-            "type": "CONCEPT",
-            "name": "performance report",
-            "aliases": [
-                "performance report"
-            ]
-        },
-        {
-            "id": "giulio-leone",
-            "type": "USER",
-            "name": "giulio-leone",
-            "aliases": [
-                "giulio-leone",
-                "Giulio Leone"
-            ]
-        },
-        {
-            "id": "fix(core): make trim_messages respect tool-call group integrity",
-            "type": "ISSUE",
-            "name": "fix(core): make trim_messages respect tool-call group integrity",
-            "aliases": [
-                "fix(core): make trim_messages respect tool-call group integrity"
-            ]
-        },
-        {
-            "id": "lonnie08",
-            "type": "USER",
-            "name": "lonnie08",
-            "aliases": [
-                "lonnie08"
-            ]
-        },
-        {
-            "id": "issue-35442",
-            "type": "ISSUE",
-            "name": "issue-35442",
-            "aliases": [
-                "issue-35442"
-            ]
-        },
-        {
-            "id": "test(chatglm)",
-            "type": "ISSUE",
-            "name": "test(chatglm): add tests for invalid API and timeout scenarios",
-            "aliases": [
-                "test(chatglm): add tests for invalid API and timeout scenarios",
-                "test(chatglm)"
-            ]
-        },
-        {
-            "id": "chatglm chat model",
-            "type": "CONCEPT",
-            "name": "ChatGLM chat model",
-            "aliases": [
-                "ChatGLM chat model"
-            ]
-        },
-        {
-            "id": "user",
-            "type": "USER",
-            "name": "user",
-            "aliases": [
-                "user"
-            ]
-        },
-        {
-            "id": "issue-35492",
-            "type": "ISSUE",
-            "name": "issue-35492",
-            "aliases": [
-                "issue-35492"
-            ]
-        },
-        {
-            "id": "langchain_core",
-            "type": "COMPONENT",
-            "name": "LangChain Core",
-            "aliases": [
-                "LangChain Core",
-                "langchain_core"
-            ]
-        },
-        {
-            "id": "user123",
-            "type": "USER",
-            "name": "User 123",
-            "aliases": [
-                "User 123",
-                "user123"
-            ]
-        },
-        {
-            "id": "senguttuvan",
-            "type": "USER",
-            "name": "Navin Senguttuvan",
-            "aliases": [
-                "senguttuvan",
-                "Navin Senguttuvan"
-            ]
-        },
-        {
-            "id": "28848",
-            "type": "ISSUE",
-            "name": "Issue #28848",
-            "aliases": [
-                "Issue #28848",
-                "28848"
-            ]
-        },
-        {
-            "id": "llmtoolselectormiddleware",
-            "type": "COMPONENT",
-            "name": "LLMToolSelectorMiddleware",
-            "aliases": [
-                "llmtoolselectormiddleware",
-                "LLMToolSelectorMiddleware"
-            ]
-        },
-        {
-            "id": "fix(langchain)",
-            "type": "ISSUE",
-            "name": "fix(langchain)",
-            "aliases": [
-                "fix(langchain)"
-            ]
-        },
-        {
-            "id": "claude",
-            "type": "CONCEPT",
-            "name": "Claude",
-            "aliases": [
-                "Claude",
-                "claude"
-            ]
-        },
-        {
-            "id": "issue-123",
-            "type": "ISSUE",
-            "name": "issue-123",
-            "aliases": [
-                "Fix(openai): fix if/elif chain and unhandled tool name in _consolidate_calls",
-                "fix(openai): ensure stream=False in payload when disable_streaming is active",
-                "issue-123"
-            ]
-        },
-        {
-            "id": "priyankakukreja267",
-            "type": "USER",
-            "name": "priyankakukreja267",
-            "aliases": [
-                "priyankakukreja267"
-            ]
-        },
-        {
-            "id": "benchmark tooling",
-            "type": "CONCEPT",
-            "name": "benchmark tooling",
-            "aliases": [
-                "benchmark tooling"
-            ]
-        },
-        {
-            "id": "ademicho123",
-            "type": "USER",
-            "name": "ademicho123",
-            "aliases": [
-                "ademicho123"
-            ]
-        },
-        {
-            "id": "issue-28848",
-            "type": "ISSUE",
-            "name": "issue-28848",
-            "aliases": [
-                "issue-28848"
-            ]
-        },
-        {
-            "id": "ademicho123:fix/structured-output-bind-tools-28848",
-            "type": "ISSUE",
-            "name": "ademicho123:fix/structured-output-bind-tools-28848",
-            "aliases": [
-                "ademicho123:fix/structured-output-bind-tools-28848"
-            ]
-        },
-        {
-            "id": "fix: preserve tool_use/tool_result pairs in trim_messages",
-            "type": "ISSUE",
-            "name": "fix: preserve tool_use/tool_result pairs in trim_messages",
-            "aliases": [
-                "fix: preserve tool_use/tool_result pairs in trim_messages"
-            ]
-        },
-        {
-            "id": "issue-35436",
-            "type": "ISSUE",
-            "name": "disable_streaming='tool_calling' causes crash",
-            "aliases": [
-                "issue-35436",
-                "disable_streaming='tool_calling' causes crash"
-            ]
-        },
-        {
-            "id": "fix(core): fix runnableretry.batch position corruption with return_exceptions",
-            "type": "ISSUE",
-            "name": "fix(core): fix RunnableRetry.batch position corruption with return_exceptions",
-            "aliases": [
-                "fix(core): fix RunnableRetry.batch position corruption with return_exceptions"
+                "langchain-classic"
             ]
         },
         {
             "id": "35475",
             "type": "ISSUE",
-            "name": "35475",
+            "name": "issue #35475",
             "aliases": [
-                "35475"
-            ]
-        },
-        {
-            "id": "fix(huggingface)",
-            "type": "USER",
-            "name": "fix(huggingface)",
-            "aliases": [
-                "fix(huggingface)"
-            ]
-        },
-        {
-            "id": "pydantic models",
-            "type": "CONCEPT",
-            "name": "Pydantic models",
-            "aliases": [
-                "Pydantic models"
-            ]
-        },
-        {
-            "id": "with_structured_output",
-            "type": "CONCEPT",
-            "name": "with_structured_output",
-            "aliases": [
-                "with_structured_output"
-            ]
-        },
-        {
-            "id": "issue #32197",
-            "type": "ISSUE",
-            "name": "issue #32197",
-            "aliases": [
-                "issue #32197"
-            ]
-        },
-        {
-            "id": "langchain-huggingface",
-            "type": "COMPONENT",
-            "name": "langchain-huggingface",
-            "aliases": [
-                "langchain-huggingface"
-            ]
-        },
-        {
-            "id": "shivangisharma4",
-            "type": "USER",
-            "name": "Shivangisharma4",
-            "aliases": [
-                "Shivangisharma4"
-            ]
-        },
-        {
-            "id": "michaelkarpe",
-            "type": "USER",
-            "name": "MichaelKarpe",
-            "aliases": [
-                "MichaelKarpe"
-            ]
-        },
-        {
-            "id": "#35182",
-            "type": "ISSUE",
-            "name": "PR #35182",
-            "aliases": [
-                "#35182",
-                "PR #35182"
-            ]
-        },
-        {
-            "id": "umut-polat",
-            "type": "USER",
-            "name": "Umut Polat",
-            "aliases": [
-                "Umut Polat",
-                "umut-polat"
-            ]
-        },
-        {
-            "id": "langchain-ai/langchain",
-            "type": "COMPONENT",
-            "name": "Langchain AI",
-            "aliases": [
-                "Langchain AI",
-                "langchain-ai/langchain"
-            ]
-        },
-        {
-            "id": "35259",
-            "type": "ISSUE",
-            "name": "fix(core): guard merge_lists against non-dict elements when matching by index",
-            "aliases": [
-                "fix(core): guard merge_lists against non-dict elements when matching by index",
-                "35259"
-            ]
-        },
-        {
-            "id": "issue-35486",
-            "type": "ISSUE",
-            "name": "issue-35486",
-            "aliases": [
-                "issue-35486"
-            ]
-        },
-        {
-            "id": "gautamvarmadatla",
-            "type": "USER",
-            "name": "gautamvarmadatla",
-            "aliases": [
-                "gautamvarmadatla"
-            ]
-        },
-        {
-            "id": "abatch_as_completed",
-            "type": "CONCEPT",
-            "name": "abatch_as_completed",
-            "aliases": [
-                "abatch_as_completed"
-            ]
-        },
-        {
-            "id": "pending tasks",
-            "type": "CONCEPT",
-            "name": "pending tasks",
-            "aliases": [
-                "pending tasks"
-            ]
-        },
-        {
-            "id": "fix(core): prevent runnableretry.batch from returning corrupted outputs on partial failure",
-            "type": "ISSUE",
-            "name": "fix(core): prevent RunnableRetry.batch from returning corrupted outputs on partial failure",
-            "aliases": [
-                "fix(core): prevent RunnableRetry.batch from returning corrupted outputs on partial failure"
-            ]
-        },
-        {
-            "id": "refresh-model-profiles",
-            "type": "ISSUE",
-            "name": "chore(model-profiles): refresh model profile data",
-            "aliases": [
-                "refresh-model-profiles",
-                "chore(model-profiles): refresh model profile data"
-            ]
-        },
-        {
-            "id": "fix(core): runnableretry.batch corrupted outputs on partial retry success",
-            "type": "ISSUE",
-            "name": "fix(core): RunnableRetry.batch corrupted outputs on partial retry success",
-            "aliases": [
-                "fix(core): RunnableRetry.batch corrupted outputs on partial retry success"
-            ]
-        },
-        {
-            "id": "yangbaechu",
-            "type": "USER",
-            "name": "yangbaechu",
-            "aliases": [
-                "yangbaechu"
-            ]
-        },
-        {
-            "id": "runnableretry.batch/abatch",
-            "type": "CONCEPT",
-            "name": "RunnableRetry.batch/abatch",
-            "aliases": [
-                "RunnableRetry.batch/abatch"
-            ]
-        },
-        {
-            "id": "jk",
-            "type": "USER",
-            "name": "jk",
-            "aliases": [
-                "jk"
-            ]
-        },
-        {
-            "id": "perf(core)",
-            "type": "ISSUE",
-            "name": "perf(core): optimize callback manager hot paths",
-            "aliases": [
-                "perf(core)",
-                "perf(core): optimize callback manager hot paths"
-            ]
-        },
-        {
-            "id": "perf(core): use deque for pipeline batch output reassembly in runnablesequence",
-            "type": "ISSUE",
-            "name": "perf(core): use deque for pipeline batch output reassembly in RunnableSequence",
-            "aliases": [
-                "perf(core): use deque for pipeline batch output reassembly in RunnableSequence"
-            ]
-        },
-        {
-            "id": "perf(core): use deque for result reassembly in runnableretry batch",
-            "type": "ISSUE",
-            "name": "perf(core): use deque for result reassembly in RunnableRetry batch",
-            "aliases": [
-                "perf(core): use deque for result reassembly in RunnableRetry batch"
-            ]
-        },
-        {
-            "id": "copilot",
-            "type": "USER",
-            "name": "Copilot",
-            "aliases": [
-                "Copilot",
-                "copilot"
-            ]
-        },
-        {
-            "id": "perf(text-splitters)",
-            "type": "ISSUE",
-            "name": "perf(text-splitters)",
-            "aliases": [
-                "perf(text-splitters)"
-            ]
-        },
-        {
-            "id": "langchain",
-            "type": "COMPONENT",
-            "name": "langchain",
-            "aliases": [
-                "langchain"
-            ]
-        },
-        {
-            "id": "#35011",
-            "type": "ISSUE",
-            "name": "issue #35011",
-            "aliases": [
-                "issue #35011",
-                "#35011"
-            ]
-        },
-        {
-            "id": "agentmiddleware",
-            "type": "COMPONENT",
-            "name": "AgentMiddleware",
-            "aliases": [
-                "AgentMiddleware"
-            ]
-        },
-        {
-            "id": "piimiddleware",
-            "type": "COMPONENT",
-            "name": "PIIMiddleware",
-            "aliases": [
-                "PIIMiddleware"
+                "35475",
+                "issue #35475"
             ]
         },
         {
@@ -580,101 +35,621 @@
             ]
         },
         {
-            "id": "ccurme",
-            "type": "USER",
-            "name": "ccurme",
-            "aliases": [
-                "ccurme"
-            ]
-        },
-        {
-            "id": "text-splitters",
+            "id": "langchain_classic",
             "type": "COMPONENT",
-            "name": "text-splitters",
+            "name": "langchain_classic package",
             "aliases": [
-                "text-splitters"
+                "langchain_classic",
+                "langchain_classic package"
             ]
         },
         {
-            "id": "pr #32325",
+            "id": "openai",
+            "type": "COMPONENT",
+            "name": "OpenAI SDK",
+            "aliases": [
+                "OpenAI SDK",
+                "OpenAI",
+                "openai"
+            ]
+        },
+        {
+            "id": "langchain-ai",
+            "type": "ORGANIZATION",
+            "name": "LangChain AI",
+            "aliases": [
+                "LangChain AI",
+                "langchain-ai"
+            ]
+        },
+        {
+            "id": "christianboris",
+            "type": "USER",
+            "name": "Christian Boris",
+            "aliases": [
+                "Christian Boris",
+                "christianboris"
+            ]
+        },
+        {
+            "id": "langchain-openai",
+            "type": "PACKAGE",
+            "name": "LangChain OpenAI",
+            "aliases": [
+                "langchain-openai",
+                "LangChain OpenAI"
+            ]
+        },
+        {
+            "id": "langchain-anthropic",
+            "type": "PACKAGE",
+            "name": "LangChain Anthropic",
+            "aliases": [
+                "LangChain Anthropic",
+                "langchain-anthropic"
+            ]
+        },
+        {
+            "id": "jiwanizakir",
+            "type": "USER",
+            "name": "JiwaniZakir",
+            "aliases": [
+                "JiwaniZakir"
+            ]
+        },
+        {
+            "id": "issue-35492",
             "type": "ISSUE",
-            "name": "PR #32325",
+            "name": "issue-35492",
             "aliases": [
-                "PR #32325"
+                "issue-35492"
             ]
         },
         {
-            "id": "konlpy",
-            "type": "CONCEPT",
-            "name": "konlpy",
+            "id": "codspeed-hq[bot]",
+            "type": "USER",
+            "name": "codspeed-hq[bot]",
             "aliases": [
-                "konlpy"
+                "codspeed-hq[bot]"
+            ]
+        },
+        {
+            "id": "performance-improvement",
+            "type": "CONCEPT",
+            "name": "performance-improvement",
+            "aliases": [
+                "performance-improvement"
+            ]
+        },
+        {
+            "id": "goingforstudying-ctrl",
+            "type": "USER",
+            "name": "goingforstudying-ctrl",
+            "aliases": [
+                "goingforstudying-ctrl"
+            ]
+        },
+        {
+            "id": "35584",
+            "type": "ISSUE",
+            "name": "35584",
+            "aliases": [
+                "35584"
+            ]
+        },
+        {
+            "id": "gpt-5.4",
+            "type": "CONCEPT",
+            "name": "gpt-5.4",
+            "aliases": [
+                "gpt-5.4"
+            ]
+        },
+        {
+            "id": "keenborder786",
+            "type": "USER",
+            "name": "keenborder786",
+            "aliases": [
+                "keenborder786"
+            ]
+        },
+        {
+            "id": "issue-123",
+            "type": "ISSUE",
+            "name": "fix(openai): update responses API model detection for pro and codex models",
+            "aliases": [
+                "fix(openai): ensure _generate/_agenerate send stream=False to the API",
+                "fix(openai): update responses API model detection for pro and codex models",
+                "issue-123"
+            ]
+        },
+        {
+            "id": "refresh_model_profiles_workflow",
+            "type": "CONCEPT",
+            "name": "refresh_model_profiles workflow",
+            "aliases": [
+                "refresh_model_profiles workflow",
+                "refresh_model_profiles_workflow"
+            ]
+        },
+        {
+            "id": "model_profile_data",
+            "type": "CONCEPT",
+            "name": "model profile data",
+            "aliases": [
+                "model_profile_data",
+                "model profile data"
+            ]
+        },
+        {
+            "id": "types-pytz",
+            "type": "COMPONENT",
+            "name": "types-pytz",
+            "aliases": [
+                "types-pytz"
+            ]
+        },
+        {
+            "id": "dependabot",
+            "type": "CONCEPT",
+            "name": "Dependabot",
+            "aliases": [
+                "dependabot",
+                "Dependabot"
+            ]
+        },
+        {
+            "id": "packaging",
+            "type": "COMPONENT",
+            "name": "packaging",
+            "aliases": [
+                "packaging"
+            ]
+        },
+        {
+            "id": "bump from 24.2 to 26.0",
+            "type": "CONCEPT",
+            "name": "bump from 24.2 to 26.0",
+            "aliases": [
+                "bump from 24.2 to 26.0"
+            ]
+        },
+        {
+            "id": "inf-0000",
+            "type": "ISSUE",
+            "name": "ci(infra): add top-level permissions and SHA-pin third-party actions",
+            "aliases": [
+                "INF-0000",
+                "ci(infra): add top-level permissions and SHA-pin third-party actions",
+                "chore(infra): update dependabot.yml to monthly schedule with update-type split"
+            ]
+        },
+        {
+            "id": "ci(infra)",
+            "type": "COMPONENT",
+            "name": "ci(infra)",
+            "aliases": [
+                "ci(infra)"
+            ]
+        },
+        {
+            "id": "pypa/gh-action-pypi-publish",
+            "type": "CONCEPT",
+            "name": "pypa/gh-action-pypi-publish",
+            "aliases": [
+                "pypa/gh-action-pypi-publish"
+            ]
+        },
+        {
+            "id": "sha-pinning",
+            "type": "CONCEPT",
+            "name": "SHA-pinning",
+            "aliases": [
+                "SHA-pinning"
+            ]
+        },
+        {
+            "id": "dependabot.yml",
+            "type": "COMPONENT",
+            "name": "dependabot.yml",
+            "aliases": [
+                "dependabot.yml"
+            ]
+        },
+        {
+            "id": "33966",
+            "type": "ISSUE",
+            "name": "Issue #33966",
+            "aliases": [
+                "33966",
+                "Issue #33966"
+            ]
+        },
+        {
+            "id": "fix_invoker",
+            "type": "USER",
+            "name": "fix_invoker",
+            "aliases": [
+                "fix_invoker"
+            ]
+        },
+        {
+            "id": "linda-ai-receptionist",
+            "type": "USER",
+            "name": "linda-ai-receptionist",
+            "aliases": [
+                "linda-ai-receptionist"
+            ]
+        },
+        {
+            "id": "ashmaac",
+            "type": "USER",
+            "name": "ashmaac",
+            "aliases": [
+                "ashmaac"
+            ]
+        },
+        {
+            "id": "injectedstate with a notrequired state field raises keyerror when the field is absent from state",
+            "type": "ISSUE",
+            "name": "InjectedState with a NotRequired state field raises KeyError when the field is absent from state",
+            "aliases": [
+                "InjectedState with a NotRequired state field raises KeyError when the field is absent from state"
+            ]
+        },
+        {
+            "id": "aryamansi17",
+            "type": "USER",
+            "name": "AryamanSi17",
+            "aliases": [
+                "AryamanSi17",
+                "aryamansi17"
+            ]
+        },
+        {
+            "id": "gpt-5.4+",
+            "type": "CONCEPT",
+            "name": "gpt-5.4+ models",
+            "aliases": [
+                "gpt-5.4+",
+                "gpt-5.4+ models"
+            ]
+        },
+        {
+            "id": "issue_123",
+            "type": "ISSUE",
+            "name": "gpt-5.4+ models not detected as Responses API models, causing tool_choice.function error",
+            "aliases": [
+                "gpt-5.4+ models not detected as Responses API models, causing tool_choice.function error",
+                "issue_123"
+            ]
+        },
+        {
+            "id": "issue_id",
+            "type": "ISSUE",
+            "name": "chore: add note to release workflow",
+            "aliases": [
+                "chore: add note to release workflow",
+                "issue_id"
+            ]
+        },
+        {
+            "id": "github_actor",
+            "type": "USER",
+            "name": "GitHub Actor",
+            "aliases": [
+                "GitHub Actor",
+                "github_actor"
+            ]
+        },
+        {
+            "id": "lc-490",
+            "type": "ISSUE",
+            "name": "Issue LC-490",
+            "aliases": [
+                "LC-490",
+                "Issue LC-490"
+            ]
+        },
+        {
+            "id": "open-swe/0d382871-81f0-fea7-78b9-a2812b9b797c",
+            "type": "PR",
+            "name": "PR open-swe/0d382871-81f0-fea7-78b9-a2812b9b797c",
+            "aliases": [
+                "PR open-swe/0d382871-81f0-fea7-78b9-a2812b9b797c",
+                "open-swe/0d382871-81f0-fea7-78b9-a2812b9b797c"
+            ]
+        },
+        {
+            "id": "ai agent",
+            "type": "USER",
+            "name": "AI agent",
+            "aliases": [
+                "AI agent"
+            ]
+        },
+        {
+            "id": "open-swe",
+            "type": "USER",
+            "name": "open-swe",
+            "aliases": [
+                "open-swe"
+            ]
+        },
+        {
+            "id": "feat(openai)",
+            "type": "ISSUE",
+            "name": "feat(openai): add tool search support with defer_loading via extras",
+            "aliases": [
+                "feat(openai)",
+                "feat(openai): add tool search support with defer_loading via extras",
+                "OpenAI"
+            ]
+        },
+        {
+            "id": "langchain-ai/langchain",
+            "type": "COMPONENT",
+            "name": "langchain-ai/langchain",
+            "aliases": [
+                "langchain-ai/langchain"
+            ]
+        },
+        {
+            "id": "tool_search",
+            "type": "CONCEPT",
+            "name": "Tool Search",
+            "aliases": [
+                "Tool Search",
+                "tool_search"
+            ]
+        },
+        {
+            "id": "issue-34029",
+            "type": "ISSUE",
+            "name": "issue-34029",
+            "aliases": [
+                "issue-34029"
+            ]
+        },
+        {
+            "id": "35415",
+            "type": "ISSUE",
+            "name": "Issue #35415",
+            "aliases": [
+                "Issue #35415",
+                "35415"
+            ]
+        },
+        {
+            "id": "fix(anthropic): update integration test",
+            "type": "ISSUE",
+            "name": "fix(anthropic): update integration test",
+            "aliases": [
+                "fix(anthropic): update integration test"
+            ]
+        },
+        {
+            "id": "mekopa",
+            "type": "USER",
+            "name": "Mekopa",
+            "aliases": [
+                "Mekopa"
+            ]
+        },
+        {
+            "id": "fix(anthropic): stamp cache_control on system prompt for prompt caching",
+            "type": "ISSUE",
+            "name": "fix(anthropic): stamp cache_control on system prompt for prompt caching",
+            "aliases": [
+                "fix(anthropic): stamp cache_control on system prompt for prompt caching"
+            ]
+        },
+        {
+            "id": "mekopa:fix/system-prompt-cache-control",
+            "type": "ISSUE",
+            "name": "Mekopa:fix/system-prompt-cache-control",
+            "aliases": [
+                "Mekopa:fix/system-prompt-cache-control"
+            ]
+        },
+        {
+            "id": "eyurtsev",
+            "type": "USER",
+            "name": "eyurtsev",
+            "aliases": [
+                "eyurtsev"
+            ]
+        },
+        {
+            "id": "devongenerally-png",
+            "type": "USER",
+            "name": "devongenerally-png",
+            "aliases": [
+                "devongenerally-png"
+            ]
+        },
+        {
+            "id": "issue_1",
+            "type": "ISSUE",
+            "name": "feat: GovernanceCallbackHandler for deterministic tool authorization",
+            "aliases": [
+                "feat: GovernanceCallbackHandler for deterministic tool authorization",
+                "issue_1"
+            ]
+        },
+        {
+            "id": "governancecallbackhandler",
+            "type": "CONCEPT",
+            "name": "GovernanceCallbackHandler",
+            "aliases": [
+                "GovernanceCallbackHandler"
+            ]
+        },
+        {
+            "id": "sentrynodeai",
+            "type": "USER",
+            "name": "SentryNodeAI",
+            "aliases": [
+                "SentryNodeAI"
+            ]
+        },
+        {
+            "id": "amelmgn",
+            "type": "USER",
+            "name": "amelmgn",
+            "aliases": [
+                "amelmgn"
+            ]
+        },
+        {
+            "id": "mcp header forwarding failure",
+            "type": "ISSUE",
+            "name": "MCP Header Forwarding Failure",
+            "aliases": [
+                "MCP Header Forwarding Failure"
+            ]
+        },
+        {
+            "id": "alon-naor-22",
+            "type": "USER",
+            "name": "AlonNaor22",
+            "aliases": [
+                "AlonNaor22",
+                "alon-naor-22"
+            ]
+        },
+        {
+            "id": "weaviatevectorstore",
+            "type": "COMPONENT",
+            "name": "WeaviateVectorStore",
+            "aliases": [
+                "WeaviateVectorStore"
+            ]
+        },
+        {
+            "id": "user",
+            "type": "USER",
+            "name": "user",
+            "aliases": [
+                "user"
             ]
         }
     ],
     "claims": [
         {
-            "subject_id": "fix(text-splitters)",
-            "relation": "REPORTED",
-            "object_id": "memory bloat",
-            "evidence": [
-                {
-                    "source_id": "GitHub issue",
-                    "excerpt": "Importing `langchain_text_splitters` eagerly pulls in `nltk`, `spacy`, and `sentence-transformers` (plus `torch` transitively) at module level, adding ~700 MiB RSS even when only lightweight splitters like `RecursiveCharacterTextSplitter` are used.",
-                    "url": "https://github.com/langchain/langchain/issues/35437",
-                    "timestamp": "2026-03-01T20:19:41Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "plc0415",
-            "relation": "CHANGED_STATE",
-            "object_id": "import structure",
-            "evidence": [
-                {
-                    "source_id": "GitHub issue",
-                    "excerpt": "This regression was introduced in 1.0.0 when [PLC0415](https://docs.astral.sh/ruff/rules/import-outside-top-level/) moved lazy imports to top-level (PR #32325).",
-                    "url": "https://github.com/langchain/langchain/issues/35437",
-                    "timestamp": "2026-03-01T20:19:41Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "fix(text-splitters)",
+            "subject_id": "deep agents cli",
             "relation": "PROPOSED_FIX",
-            "object_id": "lazy-import nltk/spacy/sentence-transformers",
+            "object_id": "langchain-classic",
+            "evidence": [
+                {
+                    "source_id": "issue",
+                    "excerpt": "Patch bump langchain-classic from 1.0.1 to 1.0.2.",
+                    "url": "https://github.com/langchain/langchain/issues/XXXX",
+                    "timestamp": "2026-03-06T19:27:48Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "gitbalaji",
+            "relation": "REPORTED",
+            "object_id": "35475",
+            "evidence": [
+                {
+                    "source_id": "github_issue",
+                    "excerpt": "Fixes #35475",
+                    "url": "https://github.com/langchain-ai/langchain/issues/35475",
+                    "timestamp": "2026-03-06T19:25:07Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "author",
+            "relation": "PROPOSED_FIX",
+            "object_id": "langchain_classic",
+            "evidence": [
+                {
+                    "source_id": "issue_body",
+                    "excerpt": "the correct fix is `type: ignore` annotations rather than code changes",
+                    "url": "issue_url",
+                    "timestamp": "2026-03-06T19:18:14Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "christianboris",
+            "relation": "REPORTED",
+            "object_id": "langchain",
             "evidence": [
                 {
                     "source_id": "GitHub issue",
-                    "excerpt": "Move the three heavy-dep splitter imports (`NLTKTextSplitter`, `SpacyTextSplitter`, `SentenceTransformersTokenTextSplitter`) behind a `__getattr__` lazy loader, following the exact same pattern used throughout `langchain-core` (e.g., `langchain_core.embeddings`, `langchain_core.callbacks`).",
-                    "url": "https://github.com/langchain/langchain/issues/35437",
-                    "timestamp": "2026-03-01T20:19:41Z"
+                    "excerpt": "When users create a `ChatOpenAI` or `ChatAnthropic` instance without explicitly setting `request_timeout`, the default value `None` is passed through to the underlying SDK (`openai.OpenAI(timeout=None)` / `anthropic.Anthropic(timeout=None)`).",
+                    "url": "https://github.com/langchain-ai/langchain/issues/13124",
+                    "timestamp": "2026-03-06T17:55:12Z"
                 }
             ]
         },
         {
-            "subject_id": "universeplayer",
+            "subject_id": "jiwanizakir",
             "relation": "PROPOSED_FIX",
-            "object_id": "fix(openai)",
+            "object_id": "issue-35492",
             "evidence": [
                 {
-                    "source_id": "https://github.com/langchain-ai/langchain/issues/32252",
-                    "excerpt": "Fixes #32252",
-                    "url": "https://github.com/langchain-ai/langchain/issues/32252",
-                    "timestamp": "2026-03-01T20:07:36Z"
+                    "source_id": "issue-comment",
+                    "excerpt": "This addresses #35492.",
+                    "url": "https://github.com/langchain-ai/langchain/issues/35492",
+                    "timestamp": "2026-03-06T14:44:28Z"
                 }
             ]
         },
         {
-            "subject_id": "mdrxy",
+            "subject_id": "codspeed-hq[bot]",
             "relation": "REPORTED",
-            "object_id": "issue with chatopenai",
+            "object_id": "performance-improvement",
             "evidence": [
                 {
-                    "source_id": "https://github.com/langchain-ai/langchain/issues/34328",
-                    "excerpt": "Putting this complexity into ChatOpenAI to handle a non-OpenAI provider is not warranted.",
-                    "url": "https://github.com/langchain-ai/langchain/issues/34328",
-                    "timestamp": "2026-03-01T20:09:52Z"
+                    "source_id": "issue-comment",
+                    "excerpt": "Merging this PR will **improve performance by 37.51%**",
+                    "url": "https://github.com/langchain-ai/langchain/issues/35492",
+                    "timestamp": "2026-03-06T14:48:02Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "goingforstudying-ctrl",
+            "relation": "PROPOSED_FIX",
+            "object_id": "35584",
+            "evidence": [
+                {
+                    "source_id": "issue_title",
+                    "excerpt": "fix: Add gpt-5.4+ models to Responses API detection (fixes #35584)",
+                    "url": "https://github.com/langchain-ai/langchain/issues/fix/gpt-5.4-responses-api",
+                    "timestamp": "2026-03-06T14:40:56Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "codspeed-hq[bot]",
+            "relation": "REPORTED",
+            "object_id": "performance_report",
+            "evidence": [
+                {
+                    "source_id": "comment_by_codspeed-hq[bot]",
+                    "excerpt": "Merging this PR will **not alter performance**",
+                    "url": "https://github.com/langchain-ai/langchain/issues/fix/gpt-5.4-responses-api",
+                    "timestamp": "2026-03-06T14:48:01Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "keenborder786",
+            "relation": "PROPOSED_FIX",
+            "object_id": "openai",
+            "evidence": [
+                {
+                    "source_id": "issue-123",
+                    "excerpt": "update responses API model detection for pro and codex models",
+                    "url": "https://github.com/langchain-ai/langchain/issues/123",
+                    "timestamp": "2026-03-06T10:53:41Z"
                 }
             ]
         },
@@ -684,575 +659,445 @@
             "object_id": "performance report",
             "evidence": [
                 {
-                    "source_id": "https://codspeed.io/langchain-ai/langchain/branches/universeplayer%3Afix%2Fvllm-null-choices",
+                    "source_id": "comment-123",
                     "excerpt": "Merging this PR will **not alter performance**",
-                    "url": "https://codspeed.io/langchain-ai/langchain/branches/universeplayer%3Afix%2Fvllm-null-choices",
-                    "timestamp": "2026-03-01T20:14:44Z"
+                    "url": "https://github.com/langchain-ai/langchain/issues/123#comment-123",
+                    "timestamp": "2026-03-06T11:00:40Z"
                 },
                 {
                     "source_id": "comment-123",
                     "excerpt": "Merging this PR will **not alter performance**",
-                    "url": "https://github.com/langchain-ai/langchain/issues/35436#comment-123",
-                    "timestamp": "2026-02-28T09:55:41Z"
+                    "url": "https://github.com/langchain-ai/langchain/pull/123#issuecomment-123",
+                    "timestamp": "2026-03-05T20:13:47Z"
                 }
             ]
         },
         {
-            "subject_id": "giulio-leone",
-            "relation": "PROPOSED_FIX",
-            "object_id": "fix(core): make trim_messages respect tool-call group integrity",
-            "evidence": [
-                {
-                    "source_id": "github_issue_comment",
-                    "excerpt": "Added in 4da7f56: new test `test_trim_messages_tool_group_never_split_first_allow_partial` covering `strategy=\"first\"` + `allow_partial=True` with a tool-call group that partially fits the budget.",
-                    "url": "https://github.com/issue/comment",
-                    "timestamp": "2026-03-01T18:23:22Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "lonnie08",
-            "relation": "PROPOSED_FIX",
-            "object_id": "issue-35442",
-            "evidence": [
-                {
-                    "source_id": "issue-35442",
-                    "excerpt": "Fixes #35442",
-                    "url": "https://github.com/langchain-ai/langchain/issues/35442",
-                    "timestamp": "2026-03-01T14:28:07Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "codspeed-hq[bot]",
+            "subject_id": "refresh_model_profiles_workflow",
             "relation": "REPORTED",
-            "object_id": "issue-35442",
+            "object_id": "model_profile_data",
             "evidence": [
                 {
-                    "source_id": "issue-35442",
-                    "excerpt": "Merging this PR will **not alter performance**",
-                    "url": "https://github.com/langchain-ai/langchain/issues/35442",
-                    "timestamp": "2026-03-01T14:30:14Z"
+                    "source_id": "issue_body",
+                    "excerpt": "Automated refresh of model profile data for all in-monorepo partner integrations via `langchain-profiles refresh`.",
+                    "url": "https://github.com/langchain-ai/langchain/issues/issue_body",
+                    "timestamp": "2026-03-06T08:09:38Z"
                 }
             ]
         },
         {
-            "subject_id": "codspeed-hq[bot]",
-            "relation": "REPORTED",
-            "object_id": "pr #xxx",
-            "evidence": [
-                {
-                    "source_id": "codspeed-hq[bot]",
-                    "excerpt": "Merging this PR will **not alter performance**",
-                    "url": "https://github.com/langchain-ai/langchain/pull/XXX",
-                    "timestamp": "2026-03-01T14:13:16Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "test(chatglm)",
+            "subject_id": "dependabot",
             "relation": "PROPOSED_FIX",
-            "object_id": "chatglm chat model",
-            "evidence": [
-                {
-                    "source_id": "test(chatglm)",
-                    "excerpt": "Add tests to verify ChatGLM chat model's error handling for invalid API addresses and timeouts",
-                    "url": "https://github.com/langchain-ai/langchain/pull/XXX",
-                    "timestamp": "2026-03-01T14:06:52Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "user",
-            "relation": "PROPOSED_FIX",
-            "object_id": "issue-35492",
-            "evidence": [
-                {
-                    "source_id": "issue-35492",
-                    "excerpt": "Fixes #35492",
-                    "url": "https://github.com/user-attachments/issues/35492",
-                    "timestamp": "2026-03-01T09:29:37Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "user123",
-            "relation": "REPORTED",
-            "object_id": "langchain_core",
+            "object_id": "types-pytz",
             "evidence": [
                 {
                     "source_id": "github_issue",
-                    "excerpt": "The `Graph.extend()` method creates hierarchical node IDs by joining names with colons (e.g., `parent:child:grandchild`).",
-                    "url": "https://github.com/langchain/langchain/issues/1234",
-                    "timestamp": "2026-03-01T09:19:41Z"
+                    "excerpt": "Bumps types-pytz from 2025.2.0.20251108 to 2026.1.1.20260304",
+                    "url": "https://github.com/typeshed-internal/stub_uploader",
+                    "timestamp": "2026-03-06T08:06:16Z"
                 }
             ]
         },
         {
-            "subject_id": "senguttuvan",
-            "relation": "PROPOSED_FIX",
-            "object_id": "28848",
-            "evidence": [
-                {
-                    "source_id": "issue-123",
-                    "excerpt": "Fixes #28848",
-                    "url": "https://github.com/langchain-ai/langchain/issues/123",
-                    "timestamp": "2026-03-01T06:24:55Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "llmtoolselectormiddleware",
-            "relation": "CHANGED_STATE",
-            "object_id": "fix(langchain)",
-            "evidence": [
-                {
-                    "source_id": "issue-123",
-                    "excerpt": "handle missing 'tools' key in LLMToolSelectorMiddleware response",
-                    "url": "https://github.com/org/repo/issues/123",
-                    "timestamp": "2026-03-01T02:37:32Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "claude",
-            "relation": "PROPOSED_FIX",
-            "object_id": "fix(langchain)",
-            "evidence": [
-                {
-                    "source_id": "issue-123",
-                    "excerpt": "This PR was developed with the assistance of an AI agent (Claude).",
-                    "url": "https://github.com/org/repo/issues/123",
-                    "timestamp": "2026-03-01T02:37:32Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "priyankakukreja267",
+            "subject_id": "packaging",
             "relation": "REPORTED",
-            "object_id": "benchmark tooling",
+            "object_id": "bump from 24.2 to 26.0",
             "evidence": [
                 {
-                    "source_id": "comment",
-                    "excerpt": "benchmark tooling is flaky - re-triggering the tests",
-                    "url": "https://github.com/",
-                    "timestamp": "2026-03-01T02:32:59Z"
+                    "source_id": "github issue",
+                    "excerpt": "Bumps packaging from 24.2 to 26.0.",
+                    "url": "https://github.com/pypa/packaging/issues",
+                    "timestamp": "2026-03-06T08:06:05Z"
                 }
             ]
         },
         {
-            "subject_id": "ademicho123",
-            "relation": "PROPOSED_FIX",
-            "object_id": "issue-28848",
+            "subject_id": "inf-0000",
+            "relation": "REPORTED",
+            "object_id": "ci(infra)",
             "evidence": [
                 {
-                    "source_id": "issue-28848",
-                    "excerpt": "Fixes #28848",
-                    "url": "https://github.com/langchain-ai/langchain/issues/28848",
-                    "timestamp": "2026-02-28T22:51:16Z"
+                    "source_id": "INF-0000",
+                    "excerpt": "Adds top-level `permissions: contents: read` to 5 workflows",
+                    "url": "https://github.com/issue/INF-0000",
+                    "timestamp": "2026-03-06T07:17:09Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "inf-0000",
+            "relation": "CHANGED_STATE",
+            "object_id": "ci(infra)",
+            "evidence": [
+                {
+                    "source_id": "INF-0000",
+                    "excerpt": "State: closed",
+                    "url": "https://github.com/issue/INF-0000",
+                    "timestamp": "2026-03-06T07:17:09Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "inf-0000",
+            "relation": "CHANGED_STATE",
+            "object_id": "inf-0000",
+            "evidence": [
+                {
+                    "source_id": "INF-0000",
+                    "excerpt": "State: closed",
+                    "url": "https://github.com/issue/INF-0000",
+                    "timestamp": "2026-03-06T07:16:35Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "dependabot",
+            "relation": "REPORTED",
+            "object_id": "dependabot.yml",
+            "evidence": [
+                {
+                    "source_id": "INF-0000",
+                    "excerpt": "Changes Dependabot schedule from `weekly` to `monthly`",
+                    "url": "https://github.com/issue/INF-0000",
+                    "timestamp": "2026-03-06T07:16:35Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "inf-0000",
+            "relation": "PROPOSED_FIX",
+            "object_id": "dependabot.yml",
+            "evidence": [
+                {
+                    "source_id": "INF-0000",
+                    "excerpt": "Adds `update-types` split (major vs minor+patch) to all dependency groups",
+                    "url": "https://github.com/issue/INF-0000",
+                    "timestamp": "2026-03-06T07:16:35Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "fix_invoker",
+            "relation": "RESOLVED",
+            "object_id": "33966",
+            "evidence": [
+                {
+                    "source_id": "issue_body",
+                    "excerpt": "Resolves #33966",
+                    "url": "https://github.com/issue_url",
+                    "timestamp": "2026-03-06T05:46:15Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "linda-ai-receptionist",
+            "relation": "REPORTED",
+            "object_id": "injectedstate with a notrequired state field raises keyerror when the field is absent from state",
+            "evidence": [
+                {
+                    "source_id": "github issue comment",
+                    "excerpt": "Conversely, a similer code does produce a valid tool output with older versions.",
+                    "url": "https://github.com/langchain-ai/langgraph/issues/7039",
+                    "timestamp": "2026-03-06T01:19:43Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "ashmaac",
+            "relation": "PROPOSED_FIX",
+            "object_id": "injectedstate with a notrequired state field raises keyerror when the field is absent from state",
+            "evidence": [
+                {
+                    "source_id": "github issue comment",
+                    "excerpt": "I've submitted a fix for this in PR #7039",
+                    "url": "https://github.com/langchain-ai/langgraph/pull/7039",
+                    "timestamp": "2026-03-06T07:08:36Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "aryamansi17",
+            "relation": "PROPOSED_FIX",
+            "object_id": "gpt-5.4+ models",
+            "evidence": [
+                {
+                    "source_id": "issue_comment",
+                    "excerpt": "In `libs/partners/openai/langchain_openai/chat_models/base.py`: ...",
+                    "url": "https://github.com/issue_comment",
+                    "timestamp": "2026-03-06T07:21:26Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "gpt-5.4+ models",
+            "relation": "REPORTED",
+            "object_id": "tool_choice.function error",
+            "evidence": [
+                {
+                    "source_id": "issue_body",
+                    "excerpt": "Unknown parameter: 'tool_choice.function'",
+                    "url": "https://github.com/issue",
+                    "timestamp": "2026-03-05T22:52:00Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "aryamansi17",
+            "relation": "CHANGED_STATE",
+            "object_id": "issue assignment",
+            "evidence": [
+                {
+                    "source_id": "issue_comment",
+                    "excerpt": "@sbusso @jarib @zeke @deepblue Please assign this issue to me!",
+                    "url": "https://github.com/issue_comment",
+                    "timestamp": "2026-03-06T07:21:26Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "github_actor",
+            "relation": "CHANGED_STATE",
+            "object_id": "issue_id",
+            "evidence": [
+                {
+                    "source_id": "issue_id",
+                    "excerpt": "State: closed",
+                    "url": "issue_url",
+                    "timestamp": "2026-03-05T22:06:50Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "open-swe/0d382871-81f0-fea7-78b9-a2812b9b797c",
+            "relation": "RESOLVED",
+            "object_id": "lc-490",
+            "evidence": [
+                {
+                    "source_id": "github_issue",
+                    "excerpt": "Adds support for OpenAI's tool search feature",
+                    "url": "https://github.com/langchain-ai/langchain/issues/123",
+                    "timestamp": "2026-03-05T20:26:35Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "ai agent",
+            "relation": "PROPOSED_FIX",
+            "object_id": "open-swe/0d382871-81f0-fea7-78b9-a2812b9b797c",
+            "evidence": [
+                {
+                    "source_id": "github_issue",
+                    "excerpt": "This PR was authored by an AI agent.",
+                    "url": "https://github.com/langchain-ai/langchain/issues/123",
+                    "timestamp": "2026-03-05T20:26:35Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "open-swe",
+            "relation": "PROPOSED_FIX",
+            "object_id": "feat(openai)",
+            "evidence": [
+                {
+                    "source_id": "issue-123",
+                    "excerpt": "Adds support for OpenAI's tool search feature in `ChatOpenAI`.",
+                    "url": "https://github.com/langchain-ai/langchain/pull/123",
+                    "timestamp": "2026-03-05T20:06:35Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "langchain-ai",
+            "relation": "PROPOSED_FIX",
+            "object_id": "openai chat models integration",
+            "evidence": [
+                {
+                    "source_id": "github_issue",
+                    "excerpt": "Adds support for OpenAI's tool search feature in the OpenAI chat models integration.",
+                    "url": "https://github.com/langchain-ai/langchain/pull/123",
+                    "timestamp": "2026-03-05T19:37:40Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "jiwanizakir",
+            "relation": "PROPOSED_FIX",
+            "object_id": "issue-34029",
+            "evidence": [
+                {
+                    "source_id": "issue-34029",
+                    "excerpt": "This addresses #34029.",
+                    "url": "https://github.com/langchain-ai/langchain/issues/34029",
+                    "timestamp": "2026-03-05T19:29:35Z"
                 }
             ]
         },
         {
             "subject_id": "codspeed-hq[bot]",
             "relation": "REPORTED",
-            "object_id": "ademicho123:fix/structured-output-bind-tools-28848",
+            "object_id": "issue-34029",
             "evidence": [
                 {
-                    "source_id": "comment-123",
+                    "source_id": "issue-34029",
+                    "excerpt": "Merging this PR will **not alter performance**",
+                    "url": "https://github.com/langchain-ai/langchain/issues/34029",
+                    "timestamp": "2026-03-05T19:33:42Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "codspeed-hq[bot]",
+            "relation": "REPORTED",
+            "object_id": "feat(openai)",
+            "evidence": [
+                {
+                    "source_id": "comment",
+                    "excerpt": "Merging this PR will **not alter performance**",
+                    "url": "https://codspeed.io/langchain-ai/langchain/branches/ander-db%3Amaster?utm_source=github&utm_medium=comment-v2&utm_content=button",
+                    "timestamp": "2026-03-05T17:53:06Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "feat(openai)",
+            "relation": "RESOLVED",
+            "object_id": "35415",
+            "evidence": [
+                {
+                    "source_id": "issue_body",
+                    "excerpt": "Fixes #35415",
+                    "url": "https://github.com/langchain-ai/langchain/issues/feat(openai)",
+                    "timestamp": "2026-03-05T17:22:49Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "codspeed-hq[bot]",
+            "relation": "REPORTED",
+            "object_id": "fix(anthropic): update integration test",
+            "evidence": [
+                {
+                    "source_id": "comment",
+                    "excerpt": "Merging this PR will **not alter performance**",
+                    "url": "https://github.com/langchain-ai/langchain/pull/35544",
+                    "timestamp": "2026-03-05T17:44:20Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "langchain-ai",
+            "relation": "CHANGED_STATE",
+            "object_id": "fix(anthropic): update integration test",
+            "evidence": [
+                {
+                    "source_id": "issue",
+                    "excerpt": "State: closed",
+                    "url": "https://github.com/langchain-ai/langchain/issues",
+                    "timestamp": "2026-03-05T17:09:10Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "mekopa",
+            "relation": "PROPOSED_FIX",
+            "object_id": "fix(anthropic): stamp cache_control on system prompt for prompt caching",
+            "evidence": [
+                {
+                    "source_id": "https://github.com/anthropics/anthropic-cookbook/blob/main/misc/prompt_caching.ipynb",
+                    "excerpt": "After the existing conversation message stamping, also stamp `cache_control` on the last block of the system prompt.",
+                    "url": "https://github.com/anthropics/anthropic-cookbook/blob/main/misc/prompt_caching.ipynb",
+                    "timestamp": "2026-03-05T16:35:05Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "codspeed-hq[bot]",
+            "relation": "REPORTED",
+            "object_id": "mekopa:fix/system-prompt-cache-control",
+            "evidence": [
+                {
+                    "source_id": "https://github.com/langchain-ai/langchain/pull/123",
                     "excerpt": "Merging this PR will **not alter performance**",
                     "url": "https://github.com/langchain-ai/langchain/pull/123",
-                    "timestamp": "2026-02-28T23:03:48Z"
+                    "timestamp": "2026-03-05T17:46:09Z"
                 }
             ]
         },
         {
-            "subject_id": "giulio-leone",
+            "subject_id": "eyurtsev",
             "relation": "PROPOSED_FIX",
-            "object_id": "fix: preserve tool_use/tool_result pairs in trim_messages",
+            "object_id": "governancecallbackhandler",
+            "evidence": [
+                {
+                    "source_id": "comment_1",
+                    "excerpt": "Use middleware for this pattern rather than callbacks.",
+                    "url": "https://github.com/issue_1",
+                    "timestamp": "2026-03-05T15:25:34Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "devongenerally-png",
+            "relation": "CHANGED_STATE",
+            "object_id": "issue_1",
+            "evidence": [
+                {
+                    "source_id": "comment_2",
+                    "excerpt": "I'll rework this as a `RunnableConfig`-based middleware",
+                    "url": "https://github.com/issue_1",
+                    "timestamp": "2026-03-05T16:18:15Z"
+                }
+            ]
+        },
+        {
+            "subject_id": "sentrynodeai",
+            "relation": "PROPOSED_FIX",
+            "object_id": "mcp header forwarding failure",
             "evidence": [
                 {
                     "source_id": "github_comment",
-                    "excerpt": "All actual tests, lint, and type checks pass (85/87). The only failing checks are CodSpeed Benchmarks (requires main branch baseline) and the derived \"CI Success\" meta-check.",
-                    "url": "https://github.com/issue/comment",
-                    "timestamp": "2026-03-01T03:59:45Z"
+                    "excerpt": "add a minimal repro with a single tool call + deterministic headers",
+                    "url": "https://github.com/langchain/langchain/issues/1234",
+                    "timestamp": "2026-03-05T14:23:55Z"
                 }
             ]
         },
         {
-            "subject_id": "fix: preserve tool_use/tool_result pairs in trim_messages",
-            "relation": "CHANGED_STATE",
-            "object_id": "open",
+            "subject_id": "amelmgn",
+            "relation": "REPORTED",
+            "object_id": "mcp header forwarding failure",
             "evidence": [
                 {
                     "source_id": "github_issue",
-                    "excerpt": "State: open",
-                    "url": "https://github.com/issue",
-                    "timestamp": "2026-02-28T16:56:41Z"
+                    "excerpt": "The LangSmith Agent Builder backend proxy does not forward custom static headers",
+                    "url": "https://github.com/langchain/langchain/issues/1234",
+                    "timestamp": "2026-03-05T10:31:56Z"
                 }
             ]
         },
         {
-            "subject_id": "giulio-leone",
+            "subject_id": "alonnaor22",
             "relation": "REPORTED",
-            "object_id": "issue-35436",
+            "object_id": "issue-123",
             "evidence": [
                 {
                     "source_id": "issue-123",
-                    "excerpt": "Fixes #35436",
+                    "excerpt": "When `streaming=True` and `disable_streaming=tool_calling`, `_should_stream` correctly routes to `_generate`/`_agenerate` (non-streaming path)",
                     "url": "https://github.com/langchain-ai/langchain/issues/123",
-                    "timestamp": "2026-02-28T16:28:01Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "giulio-leone",
-            "relation": "PROPOSED_FIX",
-            "object_id": "fix(core): fix runnableretry.batch position corruption with return_exceptions",
-            "evidence": [
-                {
-                    "source_id": "github_comment",
-                    "excerpt": "All actual tests, lint, and type checks pass (85/87). The only failing checks are CodSpeed Benchmarks (requires main branch baseline) and the derived \"CI Success\" meta-check.",
-                    "url": "https://github.com/issue/comment",
-                    "timestamp": "2026-03-01T03:59:46Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "fix(core): fix runnableretry.batch position corruption with return_exceptions",
-            "relation": "REPORTED",
-            "object_id": "35475",
-            "evidence": [
-                {
-                    "source_id": "github_issue",
-                    "excerpt": "Fixes #35475",
-                    "url": "https://github.com/issue",
-                    "timestamp": "2026-02-28T16:23:04Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "fix(huggingface)",
-            "relation": "PROPOSED_FIX",
-            "object_id": "pydantic models in with_structured_output",
-            "evidence": [
-                {
-                    "source_id": "GitHub issue",
-                    "excerpt": "use PydanticOutputParser for Pydantic models in with_structured_output",
-                    "url": "https://github.com",
-                    "timestamp": "2026-02-28T14:44:53Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "fix(huggingface)",
-            "relation": "CHANGED_STATE",
-            "object_id": "issue #32197",
-            "evidence": [
-                {
-                    "source_id": "GitHub issue",
-                    "excerpt": "Fixes #32197",
-                    "url": "https://github.com",
-                    "timestamp": "2026-02-28T14:44:53Z"
+                    "timestamp": "2026-03-05T10:20:57Z"
                 }
             ]
         },
         {
             "subject_id": "user",
             "relation": "REPORTED",
-            "object_id": "langchain-huggingface",
+            "object_id": "weaviatevectorstore",
             "evidence": [
                 {
-                    "source_id": "issue_body",
-                    "excerpt": "Despite #35182, langchain-huggingface==1.2.1 has not been released to pypi and installing this version with pip does not work",
-                    "url": "https://github.com/langchain/langchain/issues/XXXXX",
-                    "timestamp": "2026-02-28T13:04:49Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "umut-polat",
-            "relation": "REPORTED",
-            "object_id": "umut-polat:fix/consolidate-calls-elif",
-            "evidence": [
-                {
-                    "source_id": "issue-123",
-                    "excerpt": "the `file_search` branch uses a bare `if` instead of `elif`, breaking the mutually exclusive chain that starts with `web_search`",
-                    "url": "https://github.com/langchain-ai/langchain/issues/123",
-                    "timestamp": "2026-02-28T12:27:10Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "giulio-leone",
-            "relation": "PROPOSED_FIX",
-            "object_id": "fix(core): guard merge_lists against non-dict elements when matching by index",
-            "evidence": [
-                {
-                    "source_id": "github_issue",
-                    "excerpt": "Add `isinstance(e_left, dict)` guard before accessing dict-specific attributes.",
-                    "url": "https://github.com/issues/35259",
-                    "timestamp": "2026-03-01T03:59:47Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "giulio-leone",
-            "relation": "REPORTED",
-            "object_id": "typeerror: string indices must be integers, not 'str'",
-            "evidence": [
-                {
-                    "source_id": "github_issue",
-                    "excerpt": "`merge_lists` crashes with `TypeError: string indices must be integers, not 'str'` when the merged list contains a mix of strings and dicts with `index` keys.",
-                    "url": "https://github.com/issues/35259",
-                    "timestamp": "2026-02-28T09:54:49Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "giulio-leone",
-            "relation": "PROPOSED_FIX",
-            "object_id": "fix(openai)",
-            "evidence": [
-                {
-                    "source_id": "issue-35436",
-                    "excerpt": "Pop `stream` from the payload at the start of both `_generate()` and `_agenerate()`",
-                    "url": "https://github.com/langchain-ai/langchain/issues/35436",
-                    "timestamp": "2026-02-28T09:49:07Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "giulio-leone",
-            "relation": "CHANGED_STATE",
-            "object_id": "issue-35436",
-            "evidence": [
-                {
-                    "source_id": "comment-456",
-                    "excerpt": "Closing in favor of #35486",
-                    "url": "https://github.com/langchain-ai/langchain/issues/35436#comment-456",
-                    "timestamp": "2026-02-28T18:18:53Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "gautamvarmadatla",
-            "relation": "REPORTED",
-            "object_id": "giulio-leone",
-            "evidence": [
-                {
-                    "source_id": "github_issue_comment",
-                    "excerpt": "Hi @giulio-leone, I already opened a PR for this fix last week, and your PR makes the exact same change.",
-                    "url": "https://github.com/issue/comment",
-                    "timestamp": "2026-02-28T14:03:04Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "abatch_as_completed",
-            "relation": "CHANGED_STATE",
-            "object_id": "pending tasks",
-            "evidence": [
-                {
-                    "source_id": "github_issue_body",
-                    "excerpt": "`abatch_as_completed` does not cancel pending tasks when the consumer stops iterating (via exception or `break`)",
-                    "url": "https://github.com/issue",
-                    "timestamp": "2026-02-28T09:40:58Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "giulio-leone",
-            "relation": "CHANGED_STATE",
-            "object_id": "fix(core): prevent runnableretry.batch from returning corrupted outputs on partial failure",
-            "evidence": [
-                {
-                    "source_id": "github issue comment",
-                    "excerpt": "Closing in favor of #35485 which has the correct fix.",
-                    "url": "https://github.com/issue/comment",
-                    "timestamp": "2026-02-28T18:18:53Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "codspeed-hq[bot]",
-            "relation": "REPORTED",
-            "object_id": "refresh-model-profiles",
-            "evidence": [
-                {
-                    "source_id": "github_issue_comment",
-                    "excerpt": "Merging this PR will **not alter performance**",
-                    "url": "https://codspeed.io/langchain-ai/langchain/branches/bot%2Frefresh-model-profiles",
-                    "timestamp": "2026-02-28T08:08:54Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "giulio-leone",
-            "relation": "CHANGED_STATE",
-            "object_id": "fix(core): runnableretry.batch corrupted outputs on partial retry success",
-            "evidence": [
-                {
-                    "source_id": "github_issue_comment",
-                    "excerpt": "Closing in favor of #35485 which has the correct fix.",
-                    "url": "https://github.com/issue/comment",
-                    "timestamp": "2026-02-28T18:18:53Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "yangbaechu",
-            "relation": "PROPOSED_FIX",
-            "object_id": "runnableretry.batch/abatch",
-            "evidence": [
-                {
-                    "source_id": "comment",
-                    "excerpt": "I\u2019d like to work on this. My intended approach would be to add regression tests next to the existing retry batch tests `test_runnable.py`, then fix the final result assembly for this case.",
-                    "url": "https://github.com/hwchase17/langchain/issues/1234",
-                    "timestamp": "2026-02-28T06:36:39Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "jk",
-            "relation": "PROPOSED_FIX",
-            "object_id": "perf(core)",
-            "evidence": [
-                {
-                    "source_id": "issue-1",
-                    "excerpt": "Optimizes the langchain_core callback manager hot paths identified by profiling langgraph's `react_agent` benchmark, where callback overhead accounts for ~35% of runtime.",
-                    "url": "https://github.com/langchain-ai/langchain/issues/1",
-                    "timestamp": "2026-02-28T05:39:08Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "codspeed-hq[bot]",
-            "relation": "REPORTED",
-            "object_id": "perf(core)",
-            "evidence": [
-                {
-                    "source_id": "comment-1",
-                    "excerpt": "Merging this PR will **not alter performance**",
-                    "url": "https://github.com/langchain-ai/langchain/issues/1#comment-1",
-                    "timestamp": "2026-02-28T06:13:56Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "giulio-leone",
-            "relation": "CHANGED_STATE",
-            "object_id": "perf(core): use deque for pipeline batch output reassembly in runnablesequence",
-            "evidence": [
-                {
-                    "source_id": "github_comment",
-                    "excerpt": "Closing \u2014 focusing on bug fixes with higher user impact.",
-                    "url": "github_comment_url",
-                    "timestamp": "2026-02-28T19:13:42Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "giulio-leone",
-            "relation": "CHANGED_STATE",
-            "object_id": "perf(core): use deque for result reassembly in runnableretry batch",
-            "evidence": [
-                {
-                    "source_id": "github issue comment",
-                    "excerpt": "Closing \u2014 focusing on bug fixes with higher user impact.",
-                    "url": "github issue comment url",
-                    "timestamp": "2026-02-28T19:13:41Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "copilot",
-            "relation": "PROPOSED_FIX",
-            "object_id": "perf(text-splitters)",
-            "evidence": [
-                {
-                    "source_id": "issue-123",
-                    "excerpt": "Convert `raw_lines` to a `collections.deque` at the start of `split_text()` and replace all `.pop(0)` calls with `.popleft()`, which is **O(1)** amortised.",
-                    "url": "https://github.com/org/repo/issues/123",
-                    "timestamp": "2026-02-28T04:27:56Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "giulio-leone",
-            "relation": "CHANGED_STATE",
-            "object_id": "perf(text-splitters)",
-            "evidence": [
-                {
-                    "source_id": "comment-456",
-                    "excerpt": "Closing \u2014 focusing on bug fixes with higher user impact.",
-                    "url": "https://github.com/org/repo/issues/123#issuecomment-456",
-                    "timestamp": "2026-02-28T19:13:39Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "langchain",
-            "relation": "REPORTED",
-            "object_id": "#35011",
-            "evidence": [
-                {
-                    "source_id": "issue_body",
-                    "excerpt": "This fixes the streaming bypass of middleware guardrails reported in #35011.",
-                    "url": "https://github.com/issue_body",
-                    "timestamp": "2026-02-28T04:15:11Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "agentmiddleware",
-            "relation": "CHANGED_STATE",
-            "object_id": "guards_output attribute",
-            "evidence": [
-                {
-                    "source_id": "issue_body",
-                    "excerpt": "AgentMiddleware gets a new guards_output attribute (default False).",
-                    "url": "https://github.com/issue_body",
-                    "timestamp": "2026-02-28T04:15:11Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "piimiddleware",
-            "relation": "CHANGED_STATE",
-            "object_id": "wrap_model_call, awrap_model_call, and _process_model_response",
-            "evidence": [
-                {
-                    "source_id": "issue_body",
-                    "excerpt": "PIIMiddleware sets it when apply_to_output=True.",
-                    "url": "https://github.com/issue_body",
-                    "timestamp": "2026-02-28T04:15:11Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "gitbalaji",
-            "relation": "PROPOSED_FIX",
-            "object_id": "fix(text-splitters)",
-            "evidence": [
-                {
-                    "source_id": "comment",
-                    "excerpt": "Hey @ccurme @mdrxy \u2014 would appreciate a review when you get a chance. This restores lazy imports for heavy optional dependencies (spacy, nltk, etc.) in `text-splitters` that were accidentally made eager, increasing import time for users who don't use those splitters.",
-                    "url": "https://github.com/langchain/langchain/issues/35437",
-                    "timestamp": "2026-03-01T02:08:17Z"
-                }
-            ]
-        },
-        {
-            "subject_id": "pr #32325",
-            "relation": "CHANGED_STATE",
-            "object_id": "text-splitters",
-            "evidence": [
-                {
-                    "source_id": "issue_body",
-                    "excerpt": "PR #32325 moved these optional dependency imports to module-level `try/except` blocks (to satisfy ruff's `PLC0415` rule).",
-                    "url": "https://github.com/langchain/langchain/issues/35437",
-                    "timestamp": "2026-02-28T01:24:30Z"
+                    "source_id": "GitHub issue",
+                    "excerpt": "the add_documents / add_texts in WeaviateVectorStore logs errors during indexing but still returns a valid list of chunk IDs",
+                    "url": "https://github.com/user-attachments/assets/b114cd15-d7a3-483f-b7f5-982dfbd6fa29",
+                    "timestamp": "2026-03-05T10:16:57Z"
                 }
             ]
         }
