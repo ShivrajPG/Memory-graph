@@ -74,7 +74,19 @@ To adapt this MVP for Layer10’s target environment (Slack, Teams, Jira, Email)
 
 ---
 
-## VI. Reproducibility & Setup
+## VI Example Graph Queries
+
+To test the capabilities of the Agentic UI and the underlying Neo4j graph, you can run the following natural language queries in the Streamlit interface:
+
+1. **Semantic Search:** `"What bugs or issues were resolved?"`
+2. **Entity Aggregation:** `"Summarize everything codspeed-hq[bot] reported."`
+3. **Component Deep-Dive:** `"Were there any fixes proposed for openai or gpt-5.4 models?"`
+4. **Temporal State Tracking:** `"Were there any state changes regarding inf-0000 or ci(infra)?"`
+5. **Anti-Hallucination Gate:** `"What did Sam Altman say about the LangChain classic package?"` 
+
+---
+
+## VII. Reproducibility & Setup
 
 ### Prerequisites
 * Python 3.10+
