@@ -83,6 +83,14 @@ To test the capabilities of the Agentic UI and the underlying Neo4j graph, you c
 3. **Component Deep-Dive:** `"Were there any fixes proposed for openai or gpt-5.4 models?"`
 4. **Temporal State Tracking:** `"Were there any state changes regarding inf-0000 or ci(infra)?"`
 5. **Anti-Hallucination Gate:** `"What did Sam Altman say about the LangChain classic package?"` 
+<img width="1879" height="911" alt="Screenshot 2026-03-07 024214" src="https://github.com/user-attachments/assets/8367afd4-a341-4e40-8b99-ae4b7a49f4eb" />
+<img width="1887"<img width="1864" height="899" alt="Screenshot 2026-03-07 024414" src="https://github.com/user-attachments/assets/91593a19-0553-46ee-89a9-7702cb10cccd" />
+<img width="1864" height="899" alt="Screenshot 2026-03-07 024414" src="https://github.com/user-attachments/assets/8a590458-af3f-4edf-937c-e52e<img width="1894" height="901" alt="Screenshot 2026-03-07 024444" src="https://github.com/user-attachments/assets/9691e6bf-bf9e-478f-b749-a34744fa8c43" />
+f2<img width="1883" height="903" alt="Screenshot 2026-03-07 024506" src="https://github.com/user-attachments/assets/3dcf5135-fa8d-4497-b484-fec4764a3b10" />
+a6cd98" />
+<img width="1895" height="905" alt="Screenshot 2026-03-07 024526" src="https://github.com/user-attachments/assets/a105541b-6c92-4d71-a81e-5250b846f7e9" />
+<img width="1900" height="908" alt="Screenshot 2026-03-07 024559" src="https://github.com/user-attachments/assets/20c29157-7246-4fb9-89df-fd02b635090c" />
+
 
 ---
 
