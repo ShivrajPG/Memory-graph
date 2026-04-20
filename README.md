@@ -1,4 +1,4 @@
-# Layer10 Memory Graph System
+# Memory Graph System
 
 An enterprise-grade, grounded organizational memory system. This pipeline ingests unstructured and structured data (GitHub issues/comments), uses LLMs to extract relational claims, canonicalizes entities to deduplicate assertions, and pushes the resulting knowledge graph to Neo4j.
 
